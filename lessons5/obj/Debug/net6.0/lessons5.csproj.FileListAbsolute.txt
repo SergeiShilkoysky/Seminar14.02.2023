@@ -1,0 +1,15 @@
+D:\Git\семинар14.02.2023\lessons5\bin\Debug\net6.0\lessons5.exe
+D:\Git\семинар14.02.2023\lessons5\bin\Debug\net6.0\lessons5.deps.json
+D:\Git\семинар14.02.2023\lessons5\bin\Debug\net6.0\lessons5.runtimeconfig.json
+D:\Git\семинар14.02.2023\lessons5\bin\Debug\net6.0\lessons5.dll
+D:\Git\семинар14.02.2023\lessons5\bin\Debug\net6.0\lessons5.pdb
+D:\Git\семинар14.02.2023\lessons5\obj\Debug\net6.0\lessons5.csproj.AssemblyReference.cache
+D:\Git\семинар14.02.2023\lessons5\obj\Debug\net6.0\lessons5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\семинар14.02.2023\lessons5\obj\Debug\net6.0\lessons5.AssemblyInfoInputs.cache
+D:\Git\семинар14.02.2023\lessons5\obj\Debug\net6.0\lessons5.AssemblyInfo.cs
+D:\Git\семинар14.02.2023\lessons5\obj\Debug\net6.0\lessons5.csproj.CoreCompileInputs.cache
+D:\Git\семинар14.02.2023\lessons5\obj\Debug\net6.0\lessons5.dll
+D:\Git\семинар14.02.2023\lessons5\obj\Debug\net6.0\refint\lessons5.dll
+D:\Git\семинар14.02.2023\lessons5\obj\Debug\net6.0\lessons5.pdb
+D:\Git\семинар14.02.2023\lessons5\obj\Debug\net6.0\lessons5.genruntimeconfig.cache
+D:\Git\семинар14.02.2023\lessons5\obj\Debug\net6.0\ref\lessons5.dll
