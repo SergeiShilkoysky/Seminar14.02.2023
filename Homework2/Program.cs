@@ -26,21 +26,15 @@ else
 */
 
 
-internal class Program
+Console.Clear();
+Console.WriteLine("2й способ"); // чз строковое преобразование
+
+Console.Write("Введите число: ");
+string Array = Console.ReadLine();
+
+if (Array.Length < 3)
 {
-    private static void Main(string[] args)
-    {
-        Console.Clear();
-        Console.WriteLine("2й способ"); // чз строковое преобразование
-
-        Console.Write("Введите число: ");
-        string Array = Console.ReadLine();
-
-        if (Array.Length < 3)
-        {
-            Console.WriteLine($"третья цифра отсутствует");
-        }
-        else
-            Console.WriteLine($"{Array[2]} - третья цифра заданного числа");
-    }
+    Console.WriteLine($"третья цифра отсутствует");
 }
+else
+    Console.WriteLine($"{Array[2]} - третья цифра заданного числа");
